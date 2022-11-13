@@ -1,0 +1,44 @@
+/* noto-sans-light - 300 */
+@font-face {
+  font-family: 'Noto Sans', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local(''),
+    url('src/assets/fonts/noto-sans-tamil-light-300.ttf') format('ttf'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('src/assets/fonts/noto-sans-tamil-light-300.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* noto-sans-regular - 400 */
+@font-face {
+  font-family: 'Noto Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+    url('src/assets/fonts/noto-sans-tamil-regular-400.ttf') format('ttf'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('src/assets/fonts/noto-sans-tamil-regular-400.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* noto-sans-medium - 500 */
+@font-face {
+  font-family: 'Noto Sans', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local(''),
+    url('src/assets/fonts/noto-sans-tamil-medium-500.ttf') format('ttf'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('src/assets/fonts/noto-sans-tamil-medium-500.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* noto-sans-bold - 700 */
+@font-face {
+  font-family: 'Noto Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local(''),
+    url('src/assets/fonts/noto-sans-tamil-bold-700.ttf') format('ttf'),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url('src/assets/fonts/noto-sans-tamil-bold-700.ttf') format('ttf'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}

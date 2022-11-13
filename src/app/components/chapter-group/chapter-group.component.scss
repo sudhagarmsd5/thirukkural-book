@@ -1,0 +1,16 @@
+.c-card {
+  cursor: pointer;
+  img {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  &:hover {
+    img {
+      transform: scale(1.05);
+    }
+  }
+
+  ol li:hover {
+    @apply text-color-core-primary-glare;
+  }
+}

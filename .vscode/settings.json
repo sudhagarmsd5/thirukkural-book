@@ -1,0 +1,9 @@
+{
+  "cSpell.words": [
+    "devkit",
+    "tailwindcss",
+    "Thirukkural"
+  ],
+  "css.validate": false, // Disable default css built-in lint
+  "scss.validate": false, // Disable scss lint (optional if using scss)
+}

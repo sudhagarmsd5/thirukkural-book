@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+/* Tailwind Directives, Components */
+@import './styles/tailwind';
+
+/* Local Font Noto sans serif 
+* @light - 300
+* @regular - 400
+* @medium - 500
+* @bold - 700
+*/
+@import './styles/fonts.css';
+
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
